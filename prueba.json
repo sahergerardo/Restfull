@@ -1,0 +1,23 @@
+{
+  "errorCode": 0, 
+  "errorString": "ok", 
+  "hotspots": [
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 52.3686716, 
+          "lon": 4.9000322
+        }
+      }, 
+      "icon": {
+        "url": "http://static.layar.com/media/content_media/113/ar-small-icon.png"
+      }, 
+      "id": 1, 
+      "text": {
+        "description": "Description line 1\nDescription line 2\nand Description line 3", 
+        "title": "This POI has a custom icon and description"
+      }
+    }, 
+  ], 
+  "layer": "prueba1semq"
+}    
