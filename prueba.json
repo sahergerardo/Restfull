@@ -23,7 +23,7 @@
       "icon": {
 
         "url": "https://github.com/sahergerardo/Restfull/raw/master/WhatsApp%20Image%202017-10-03%20at%2013.10.24.jpeg"
-
+      }
       },
       {
 
@@ -31,9 +31,6 @@
 
         "geolocation": {
 
-         // "lat": 17.063356, 
-
-          //"lon": -96.731605
            "lat": 17.076805, 
 
           "lon": -96.74455
