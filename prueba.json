@@ -31,6 +31,21 @@
       "text": {
         "title": "This is a basic POI"
       }
+    },
+     {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.076805, 
+          "lon": -96.74455
+        }
+      },
+        "icon": {
+        "url": "https://github.com/sahergerardo/Restfull/raw/master/WhatsApp%20Image%202017-10-03%20at%2013.15.59.jpeg"
+      },
+      "id": 1, 
+      "text": {
+        "title": "This is a basic POI"
+      }
     }
   ], 
   "layer": "casasdeempeo3jib"
