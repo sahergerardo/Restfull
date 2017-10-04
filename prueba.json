@@ -23,7 +23,7 @@
         }
       }, 
       "icon": {
-        "url": "https://github.com/sahergerardo/Restfull/raw/master/Loch-Ness-Monster-78033.gif"
+        "url": "https://github.com/sahergerardo/Restfull/raw/master/WhatsApp%20Image%202017-10-03%20at%2013.10.24.jpeg"
       }, 
       "id": 2, 
       "text": {
@@ -31,20 +31,7 @@
         "title": "This POI has a custom icon and description"
       }
     }, 
-    {
-      "actions": [
-        {
-          "contentType": "text/html", 
-          "label": "Visit our hotspots documentation!", 
-          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
-        }
-      ], 
-      "anchor": {
-        "geolocation": {
-          "lat": 17.076772, 
-          "lon": -96.744569
-        }
-      }, 
+  , 
       "id": 3, 
       "text": {
         "title": "This POI has an action"
