@@ -5,12 +5,27 @@
     {
       "anchor": {
         "geolocation": {
+          "lat": 17.076276, 
+          "lon": -96.741504
+        }
+      },
+        "icon": {
+        "url": "https://github.com/sahergerardo/Restfull/raw/master/WhatsApp%20Image%202017-10-03%20at%2013.10.24.jpeg"
+      },
+      "id": 1, 
+      "text": {
+        "title": "This is a basic POI"
+      }
+    },
+    {
+      "anchor": {
+        "geolocation": {
           "lat": 17.076805, 
           "lon": -96.74455
         }
       },
         "icon": {
-        "url": "https://github.com/sahergerardo/Restfull/raw/master/WhatsApp%20Image%202017-10-03%20at%2013.10.24.jpeg"
+        "url": "https://github.com/sahergerardo/Restfull/raw/master/WhatsApp%20Image%202017-10-03%20at%2013.12.24.jpeg"
       },
       "id": 1, 
       "text": {
